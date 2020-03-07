@@ -1,0 +1,2 @@
+# Capricorn
+leetcode solution python
